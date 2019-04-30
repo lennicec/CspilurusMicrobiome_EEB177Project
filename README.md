@@ -13,5 +13,5 @@ This program is designed to take a large data set that includes isolated DNA seq
 - Data Set
 
 ### How do you use the program?
-
+Upload data set and run the program 
 
