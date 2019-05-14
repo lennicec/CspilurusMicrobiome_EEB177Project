@@ -1,4 +1,4 @@
-# Assessing the effects of different variables on the biodiversity of gut microbiomes
+# Sequencer Output to Analytic Program (SOAP)
 
 ### Authors:<br>
 Lennice Castro and Ruben Rodriguez
