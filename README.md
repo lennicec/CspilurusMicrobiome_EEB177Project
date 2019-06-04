@@ -71,62 +71,62 @@ The program will begin making directories, making and saving different files, an
 ### Expected Ouputs:
 The following directories are expected to be outputs and their should be various files with in them:
 
-output-emp-single-end-sequences
-└── emp-single-end-sequences.qza
+output-emp-single-end-sequences <br>
+└── emp-single-end-sequences.qza <br>
 
-demultiplex-sequences
-└── demux-details.qza
-└── demux.qza
+demultiplex-sequences <br>
+└── demux-details.qza <br>
+└── demux.qza <br>
 
-dada2
-└── rep-seqs.qza
+dada2 <br>
+└── rep-seqs.qza <br>
 
-table-dada2
-└── table.qza
+table-dada2 <br>
+└── table.qza <br>
 
-stats-dada2
-└── stats-dada2.qza
+stats-dada2 <br>
+└── stats-dada2.qza <br>
 
-visuals
-└── bray-curtis-emperor-DaysSinceExperimentStart.qzv
-└── demux.qzv
-└── evenness-group-significance.qzv
-└── faith-pd-group-significance.qzv
-└── rep-seqs.qzv
-└── stats-dada2.qzv
-└── table.qzv
-└── unweighted-unifrac-body-site-significance.qzv
-└── unweighted-unifrac-emperor-DaysSinceExperimentStart.qzv
-└── unweighted-unifrac-subject-group-significance.qzv
+visuals <br>
+└── bray-curtis-emperor-DaysSinceExperimentStart.qzv <br>
+└── demux.qzv <br>
+└── evenness-group-significance.qzv <br>
+└── faith-pd-group-significance.qzv <br>
+└── rep-seqs.qzv <br>
+└── stats-dada2.qzv <br>
+└── table.qzv <br>
+└── unweighted-unifrac-body-site-significance.qzv <br>
+└── unweighted-unifrac-emperor-DaysSinceExperimentStart.qzv <br>
+└── unweighted-unifrac-subject-group-significance.qzv <br>
 
-aligned-sequences
-└── aligned-rep-seqs.qza
-└── masked-aligned-rep-seqs.qza
+aligned-sequences <br>
+└── aligned-rep-seqs.qza <br>
+└── masked-aligned-rep-seqs.qza <br>
 
-rooted-tree 
-└── rooted-tree.qza   
+rooted-tree <br>
+└── rooted-tree.qza <br>  
 
-unrooted-tree
-└── unrooted-tree.qza
+unrooted-tree <br>
+└── unrooted-tree.qza <br>
 
-core-metrics-results  
-└── core-metrics-results/faith_pd_vector.qza 
-└── core-metrics-results/unweighted_unifrac_distance_matrix.qza
-└── core-metrics-results/bray_curtis_pcoa_results.qza
-└── core-metrics-results/shannon_vector.qza
-└── core-metrics-results/rarefied_table.qza
-└── core-metrics-results/weighted_unifrac_distance_matrix.qza
-└── core-metrics-results/jaccard_pcoa_results.qza
-└── core-metrics-results/observed_otus_vector.qza
-└── core-metrics-results/weighted_unifrac_pcoa_results.qza
-└── core-metrics-results/jaccard_distance_matrix.qza
-└── core-metrics-results/evenness_vector.qza
-└── core-metrics-results/bray_curtis_distance_matrix.qza
-└── core-metrics-results/unweighted_unifrac_pcoa_results.qza
-└── core-metrics-results/unweighted_unifrac_emperor.qzv
-└── core-metrics-results/jaccard_emperor.qzv
-└── core-metrics-results/bray_curtis_emperor.qzv
-└── core-metrics-results/weighted_unifrac_emperor.qzv
+core-metrics-results <br>  
+└── core-metrics-results/faith_pd_vector.qza <br> 
+└── core-metrics-results/unweighted_unifrac_distance_matrix.qza <br>
+└── core-metrics-results/bray_curtis_pcoa_results.qza <br>
+└── core-metrics-results/shannon_vector.qza <br>
+└── core-metrics-results/rarefied_table.qza <br>
+└── core-metrics-results/weighted_unifrac_distance_matrix.qza <br>
+└── core-metrics-results/jaccard_pcoa_results.qza <br>
+└── core-metrics-results/observed_otus_vector.qza <br>
+└── core-metrics-results/weighted_unifrac_pcoa_results.qza <br>
+└── core-metrics-results/jaccard_distance_matrix.qza <br>
+└── core-metrics-results/evenness_vector.qza <br>
+└── core-metrics-results/bray_curtis_distance_matrix.qza <br>
+└── core-metrics-results/unweighted_unifrac_pcoa_results.qza <br>
+└── core-metrics-results/unweighted_unifrac_emperor.qzv <br>
+└── core-metrics-results/jaccard_emperor.qzv <br>
+└── core-metrics-results/bray_curtis_emperor.qzv <br>
+└── core-metrics-results/weighted_unifrac_emperor.qzv <br>
 
 ### References:
 
