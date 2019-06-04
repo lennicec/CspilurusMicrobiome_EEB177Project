@@ -58,30 +58,60 @@ sh master.sh -i emp-single-end-sequences/ -o output-emp-single-end-sequences -m 
 The program will begin making directories, making and saving different files, and comment as it proceeds to do so
 
 ### Expected Ouputs:
-The following directories are expected to be outputs and their should be various files with in them (I only included the files stred in the visuals directory below):
-output-emp-single-end-sequences
-demultiplex-sequences
-dada2 
-table-dada2
-stats-dada2
-visuals
-	bray-curtis-emperor-DaysSinceExperimentStart.qzv
-	demux.qzv
-	evenness-group-significance.qzv
-	faith-pd-group-significance.qzv
-	rep-seqs.qzv
-	stats-dada2.qzv
-	table.qzv
-	unweighted-unifrac-body-site-significance.qzv
-	unweighted-unifrac-emperor-DaysSinceExperimentStart.qzv
-	unweighted-unifrac-subject-group-significance.qzv
-aligned-sequences
-rooted-tree    
-unrooted-tree
-core-metrics-results     
+The following directories are expected to be outputs and their should be various files with in them:
+- output-emp-single-end-sequences
+	- emp-single-end-sequences.qza
+- demultiplex-sequences
+	- demux-details.qza
+	- demux.qza
+- dada2
+	- rep-seqs.qza 
+- table-dada2
+	- table.qza
+- stats-dada2
+	- stats-dada2.qza
+- visuals
+	- bray-curtis-emperor-DaysSinceExperimentStart.qzv
+	- demux.qzv
+	- evenness-group-significance.qzv
+	- faith-pd-group-significance.qzv
+	- rep-seqs.qzv
+	- stats-dada2.qzv
+	- table.qzv
+	- unweighted-unifrac-body-site-significance.qzv
+	- unweighted-unifrac-emperor-DaysSinceExperimentStart.qzv
+	- unweighted-unifrac-subject-group-significance.qzv
+- aligned-sequences
+	- aligned-rep-seqs.qza
+	- masked-aligned-rep-seqs.qza
+- rooted-tree 
+	- rooted-tree.qza   
+- unrooted-tree
+	- unrooted-tree.qza
+- core-metrics-results  
+	- core-metrics-results/faith_pd_vector.qza 
+	- core-metrics-results/unweighted_unifrac_distance_matrix.qza
+	- core-metrics-results/bray_curtis_pcoa_results.qza
+	- core-metrics-results/shannon_vector.qza
+	- core-metrics-results/rarefied_table.qza
+	- core-metrics-results/weighted_unifrac_distance_matrix.qza
+	- core-metrics-results/jaccard_pcoa_results.qza
+	- core-metrics-results/observed_otus_vector.qza
+	- core-metrics-results/weighted_unifrac_pcoa_results.qza
+	- core-metrics-results/jaccard_distance_matrix.qza
+	- core-metrics-results/evenness_vector.qza
+	- core-metrics-results/bray_curtis_distance_matrix.qza
+	- core-metrics-results/unweighted_unifrac_pcoa_results.qza
+	- core-metrics-results/unweighted_unifrac_emperor.qzv
+	- core-metrics-results/jaccard_emperor.qzv
+	- core-metrics-results/bray_curtis_emperor.qzv
+	- core-metrics-results/weighted_unifrac_emperor.qzv
 
 ### References:
 
 1. QIIME2 development team. 2016-2019. “Moving Pictures” tutorial. QIIME2 docs. https://docs.qiime2.org/2019.4/tutorials/moving-pictures/
+
+
+
 
 
