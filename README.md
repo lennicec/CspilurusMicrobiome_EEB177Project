@@ -109,7 +109,7 @@ rooted-tree <br>
 unrooted-tree <br>
 └── unrooted-tree.qza <br>
 
-core-metrics-results <br>  
+core-metrics-results  
 └── core-metrics-results/faith_pd_vector.qza <br> 
 └── core-metrics-results/unweighted_unifrac_distance_matrix.qza <br>
 └── core-metrics-results/bray_curtis_pcoa_results.qza <br>
