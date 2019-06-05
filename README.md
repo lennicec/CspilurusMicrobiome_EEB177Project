@@ -1,7 +1,8 @@
 # Sequencer Output to Diversity Analysis (SODA)
 
 ### Authors:
-Lennice Castro 
+Lennice Castro <br>
+Email: lennicec@g.ucla.edu 
 
 ### Introduction:
 This program is designed to take a large data set that includes isolated DNA sequences from gut extractions of coral reef fish and the metadata of the samples collected to create a visual that displays different analyses in a viewer friendly graph. 
