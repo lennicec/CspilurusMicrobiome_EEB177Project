@@ -29,7 +29,7 @@ When the extracted, amplified and purified DNA is sent to be sequenced the outpu
 - sample-metadata.tsv
 
 ### Instructions:
-First, You want to create the main directort in which you will run the script and save other subdirectories created by the program.
+First, You want to create the main directory in which you will run the script and save other subdirectories created by the program.
 
 Second, of course need to have  the following files in your directory:
 sequences.fastq.gz 
