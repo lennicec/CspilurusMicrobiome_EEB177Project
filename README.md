@@ -1,7 +1,7 @@
 # Sequencer Output to Diversity Analysis (SODA)
 
 ### Author:
-Lennice Castro 
+Lennice Castro <br> 
 lennicec@g.ucla.edu
 
 ### Introduction:
