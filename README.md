@@ -129,6 +129,10 @@ core-metrics-results <br>
 └── core-metrics-results/bray_curtis_emperor.qzv <br>
 └── core-metrics-results/weighted_unifrac_emperor.qzv <br>
 
+### Citing:
+_CitingSODA_ doi: 10.5281/zenodo.3245509
+
+
 ### References:
 
 1. Sullam, K. E., Essinger, S. D., Lozupone, C. A., O’Connor, M. P., Rosen, G. L., Knight, R., … Russell, J. A. (2012). Environmental and ecological factors that shape the gut bacterial communities of fish: A meta-analysis. Molecular Ecology, 21(13), 3363–3378. https://doi.org/10.1111/j.1365-294X.2012.05552.x
