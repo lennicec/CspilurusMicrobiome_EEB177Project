@@ -66,6 +66,8 @@ sh master.sh -i emp-single-end-sequences/ -o output-emp-single-end-sequences -m 
 
 6. The program will begin making directories, making and saving different files, and comment as it proceeds to do so
 
+7. In order to view the visulas generated (.qzv) files you will have to copy them on to your desktop and then drag and drop them onto QIIME2 View (https://view.qiime2.org)
+
 ### Expected Ouputs:
 The following directories are expected to be outputs in one master directory:
 
